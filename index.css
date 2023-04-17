@@ -1,0 +1,27 @@
+
+body{
+background-color: aliceblue;
+display: flex;
+justify-content: center;
+flex-direction: column;
+}
+label{
+    font-size: 20px;
+    padding: 10px;
+    
+}
+button{
+    width: 80px;
+   margin-top: 10px;
+}
+.complete-btn{
+    margin-left: 40px;
+}
+h1{
+    text-align: center;
+    
+}
+#task-list{
+   font-size: 20px;
+   padding: 30px;
+}
